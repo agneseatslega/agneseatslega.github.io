@@ -1,0 +1,40 @@
+body {
+  margin:0 auto;
+  width:960px;
+  min-height: 500px;
+}
+
+.menu {
+  display:none;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+.left {
+  width: 70%;
+  float: left;
+  font-family: monospace;
+}
+
+.left p {
+    overflow: auto;
+    padding: 25px;
+}
+
+
+.left img {
+  float:right;
+}
+
+.right {
+  width: 30%;
+  float: right;
+}
+
+.footer {
+  width: 100%;
+  float: left;
+}
